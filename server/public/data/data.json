@@ -1,0 +1,10 @@
+{
+  "name" : "Scott Bromander",
+  "phonenumber" : 5554542050,
+  "kids" : ["jackson"],
+  "accounts" : {
+    "checking" : 24087082750472,
+    "savings" : 92309724095790
+  },
+  "imgURL" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAO8AAAAJDdlMDg0NjNiLTBiNTEtNGY2NS05MmYwLWU5YTcyYzFjMjFmNA.jpg"
+}
